@@ -1,0 +1,30 @@
+body {
+    margin: 2%;
+    border: 1px solid black;
+    background-color: #b3b3b3;
+}
+#image {
+    width: 1024px;
+    height: 576px;
+    border: 5px solid black;
+    margin: 0 auto;
+    background-color: #8e68ff;
+    background-image: url('');
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    text-align: center;
+    background-size: cover;
+    margin-bottom: 25px;
+    font-size: 150%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.preview {
+    width: 10%;
+    margin-left: 17%;
+    border: 10px solid black;
+}
+img {
+    width: 95%;
+}
